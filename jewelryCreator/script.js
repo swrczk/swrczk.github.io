@@ -123,7 +123,6 @@ function selectOption(category, value, ev) {
 function copySelection() {
     const text = Object.entries(selection).map(([k, v]) => `${k}: ${v}`).join("\n");
     navigator.clipboard.writeText(text);
-    alert("Skopiowano wybór do schowka!");
 }
 
 function updateStonePreview() {
