@@ -150,3 +150,16 @@ function updateStonePreview() {
 // first render
 updatePreview();
 updateStonePreview();
+
+
+/**
+ * cena
+ * przekladki - 6zl
+ * zawieszka - 6zl
+ * zapiecie - 4zl
+ * 
+ * kamienie
+ * tanie: 6 * 4 = 24zl
+ * drogie: 6 * 8 = 48zl
+ * 
+ */
