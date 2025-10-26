@@ -1,6 +1,6 @@
 
 const links = [
-    "jewelryCreator",
+    "jewellery-creator",
 ]
 
 const list = document.getElementById("linkList")
