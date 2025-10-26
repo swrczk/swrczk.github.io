@@ -1,0 +1,3 @@
+[submodule "jewellery-creator"]
+	path = jewellery-creator
+	url = https://github.com/swrczk/jewellery-creator.git
