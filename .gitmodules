@@ -1,3 +1,6 @@
 [submodule "jewellery-creator"]
 	path = projects/jewellery-creator
 	url = https://github.com/swrczk/jewellery-creator.git
+[submodule "projects/jewellery-creator"]
+	path = projects/jewellery-creator
+	url = https://github.com/swrczk/jewellery-creator.git
