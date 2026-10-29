@@ -4,3 +4,9 @@
 [submodule "projects/jewellery-creator"]
 	path = projects/jewellery-creator
 	url = https://github.com/swrczk/jewellery-creator.git
+[submodule "projects/dratewka"]
+	path = projects/dratewka
+	url = https://github.com/swrczk/JS-DratewkaGame.git
+[submodule "projects/mouse-trap"]
+	path = projects/mouse-trap
+	url = https://github.com/swrczk/JS-MouseTrapGame.git
